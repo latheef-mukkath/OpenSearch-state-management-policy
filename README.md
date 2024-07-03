@@ -1,0 +1,1 @@
+# OpenSearch-state-management-policy
